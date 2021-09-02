@@ -17,8 +17,8 @@ justify-content: space-between;
 color: grey;
 font-family: 'Century Gothic', 'Segoe UI', Candara, Calibri;
 font-size:xx-large;
-padding-left: 400px;
-padding-right: 400px;
+padding-left: 100px;
+padding-right: 100px;
 background: -webkit-linear-gradient(to right, #ffffff, #abbaab); 
 flex-direction: column;
 
@@ -81,7 +81,7 @@ ul li a:hover {
     }
 
 .social-text{
-    font-family: inherit;
+    font-family: 'Century Gothic', 'Segoe UI', Candara, Calibri;
 }
 
 .section-one-right{
@@ -93,25 +93,22 @@ ul li a:hover {
 .right-image-container{
 display: flex;
 margin-right: -20px;
-
 }
 
 .right-image-container:nth-child(1) {
-width: 200px;
-height: 200px;
+width: 150px;
+height: 150px;
 }
 
 .right-image-container:nth-child(2) {
-width: 450px;
-height: 450px;
+width: 400px;
+height: 400px;
 }
 
 .right-image-container:nth-child(3) {
-width: 550px;
-height: 600px;
+width: 475px;
+height: 525px;
 }
-
-.right-image{}
 
 /*section two styling*/
 
