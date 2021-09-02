@@ -7,6 +7,8 @@ html {
     
 }
 
+/*nav bar styling*/
+
 .nav-bar{
 display: flex;
 height: 200px;
@@ -33,6 +35,8 @@ flex-direction: column;
 ul li a:hover {
     color: black;
 }
+
+/*section one styling*/
 
 .section-one{
     background: -webkit-linear-gradient(to right, #ffffff, #abbaab); 
@@ -84,14 +88,11 @@ ul li a:hover {
     display:flex; 
     align-items: flex-end;
     padding-right: 15px;
- 
-
-}
+ }
 
 .right-image-container{
 display: flex;
 margin-right: -20px;
-
 
 }
 
@@ -111,6 +112,8 @@ height: 600px;
 }
 
 .right-image{}
+
+/*section two styling*/
 
 .section-two {
     background-color: ivory;
@@ -152,6 +155,8 @@ height: 600px;
     vertical-align: flex;
 }
 
+/*section three styling*/
+
 .section-three{
     background: -webkit-linear-gradient(to right, #ffffff, #abbaab); 
     display: flex;
@@ -171,6 +176,7 @@ height: 600px;
     border: solid black;
     margin-right: -30px;
     z-index: 2;
+  
 }
 
 .section-three-right{
@@ -200,13 +206,19 @@ height: 600px;
      
 }
 
+/*Footer Styling*/
+
 footer{
     display: flex;
     background: ivory;
     height: 400px;
     align-items: center;
     justify-content: space-between;
-    font-family: 'Century Gothic', 'Segoe UI', Candara, Calibri;s
-    padding-left: 300px;
     padding-right: 300px;
+    padding-left: 300px;   
+    font-size: x-large;
+}
+
+.footer-section{
+ 
 }
