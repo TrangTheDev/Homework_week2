@@ -35,5 +35,5 @@ Then i proceeded to create my containers in HTML to show where i will place my i
 ![Container](./about-me-template1.PNG)
 
 The final product will change over the next 6 months as i improve on my skills in Bootcamp.
-The final website can be viewed at: [deployed website URL here]
+The final website can be viewed at: https://trangthedev.github.io/Homework_week2/
 
