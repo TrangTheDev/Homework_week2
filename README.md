@@ -25,12 +25,12 @@ https://about.me/
 The next step i took is to wireframe the design so i could start constructing the template in HTML by creating boxes/containers as place holders.
 
 My wireframe:
-![image](Homework_week2\Assets\about-me-wire-frame.PNG)
+![image](TrangTheDev\BootCamp\Homework_week2\Assets\about-me-wire-frame.PNG)
 
 Then i proceeded to create my containers in HTML to show where i will place my images and text.
 
 My HTML container:
-![image](Homework_week2\Assets\about-me-template1.PNG)
+![image](TrangTheDev\BootCamp\Homework_week2\Assets\about-me-template1.PNG)
 
 The final product will change over the next 6 months as i improve on my skills in Bootcamp.
 The final website can be viewed at: [deployed website URL here]
