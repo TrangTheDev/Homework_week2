@@ -33,4 +33,5 @@ My HTML container:
 ![image](Homework_week2\Assets\about-me-template1.PNG)
 
 The final product will change over the next 6 months as i improve on my skills in Bootcamp.
-The fianl website can be viewed at: [deployed website URL here]
+The final website can be viewed at: [deployed website URL here]
+
